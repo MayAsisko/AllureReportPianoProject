@@ -1,0 +1,109 @@
+{
+  "uid" : "c953e634aba45cbb",
+  "name" : "tc03_turnOffSustainbyClickingMinus",
+  "fullName" : "tests.PianoSoundSettingsTest.tc03_turnOffSustainbyClickingMinus",
+  "historyId" : "f5072e469a0e91250622e3d00a5c3d80",
+  "time" : {
+    "start" : 1699038890655,
+    "stop" : 1699038949176,
+    "duration" : 58521
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1699038806646,
+      "stop" : 1699038835341,
+      "duration" : 28695
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1699038890650,
+      "stop" : 1699038890652,
+      "duration" : 2
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tierDown",
+    "time" : {
+      "start" : 1699039072695,
+      "stop" : 1699039073510,
+      "duration" : 815
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.PianoSoundSettingsTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.PianoSoundSettingsTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "tc03_turnOffSustainbyClickingMinus"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.PianoSoundSettingsTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-MQ8SA9Q"
+  }, {
+    "name" : "thread",
+    "value" : "13668@DESKTOP-MQ8SA9Q.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c953e634aba45cbb.json",
+  "parameterValues" : [ ]
+}

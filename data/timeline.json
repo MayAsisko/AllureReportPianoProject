@@ -1,0 +1,325 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-MQ8SA9Q",
+    "children" : [ {
+      "name" : "13668@DESKTOP-MQ8SA9Q.main(1)",
+      "children" : [ {
+        "name" : "tc03_turnOffSustainbyClickingMinus",
+        "uid" : "c953e634aba45cbb",
+        "parentUid" : "e79f081100a253160968798bffde03f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1699038890655,
+          "stop" : 1699038949176,
+          "duration" : 58521
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tc01_transposeUp",
+        "uid" : "e3861d0191a7cbbf",
+        "parentUid" : "e79f081100a253160968798bffde03f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1699039460296,
+          "stop" : 1699039501144,
+          "duration" : 40848
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tc01_PlayASongFromPopularCategory1",
+        "uid" : "5f36891cab0b3bc4",
+        "parentUid" : "e79f081100a253160968798bffde03f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1699039945611,
+          "stop" : 1699040028078,
+          "duration" : 82467
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tc02_GoToLibraryAndChooseAsong2",
+        "uid" : "7d6f7096565cb0be",
+        "parentUid" : "e79f081100a253160968798bffde03f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1699039206701,
+          "stop" : 1699039330955,
+          "duration" : 124254
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tc01_pianoKeysTest",
+        "uid" : "4b989b2cfdb66997",
+        "parentUid" : "e79f081100a253160968798bffde03f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1699039659034,
+          "stop" : 1699039704240,
+          "duration" : 45206
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tc04_changeVolumeAndPlay",
+        "uid" : "4adb4df741692008",
+        "parentUid" : "e79f081100a253160968798bffde03f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1699038949180,
+          "stop" : 1699038983454,
+          "duration" : 34274
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tc01_SearchSong01",
+        "uid" : "695d8dd003f0c27d",
+        "parentUid" : "e79f081100a253160968798bffde03f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1699039767405,
+          "stop" : 1699039809470,
+          "duration" : 42065
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tc02_turnOffSustain",
+        "uid" : "74a42268d83e966b",
+        "parentUid" : "e79f081100a253160968798bffde03f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1699038854922,
+          "stop" : 1699038890648,
+          "duration" : 35726
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tc03_changingSoundToSaxophone",
+        "uid" : "87920c6327bd96bd",
+        "parentUid" : "e79f081100a253160968798bffde03f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1699038770556,
+          "stop" : 1699038805767,
+          "duration" : 35211
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tc02_pianoPlayingScaleTest",
+        "uid" : "b0f6eb4ad642c3c6",
+        "parentUid" : "e79f081100a253160968798bffde03f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1699039704248,
+          "stop" : 1699039738896,
+          "duration" : 34648
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tc03_transposeDownMoreThanPossible",
+        "uid" : "2768a29af8ff63d2",
+        "parentUid" : "e79f081100a253160968798bffde03f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1699039544334,
+          "stop" : 1699039585737,
+          "duration" : 41403
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tc02_transposeDown",
+        "uid" : "b5bee5e28ed66f91",
+        "parentUid" : "e79f081100a253160968798bffde03f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1699039501156,
+          "stop" : 1699039544325,
+          "duration" : 43169
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tc03_restartTheSong",
+        "uid" : "fce470032939830b",
+        "parentUid" : "e79f081100a253160968798bffde03f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1699039851435,
+          "stop" : 1699039924732,
+          "duration" : 73297
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tc06_returnVolumeToNormal",
+        "uid" : "923c91f3c450455e",
+        "parentUid" : "e79f081100a253160968798bffde03f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1699039017639,
+          "stop" : 1699039051796,
+          "duration" : 34157
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tc01_GoToLibraryAndChooseAsong",
+        "uid" : "da73f27ef82ce53b",
+        "parentUid" : "e79f081100a253160968798bffde03f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1699039102481,
+          "stop" : 1699039206693,
+          "duration" : 104212
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tc05_changeVolumeToMin",
+        "uid" : "93a6a36142471361",
+        "parentUid" : "e79f081100a253160968798bffde03f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1699038983461,
+          "stop" : 1699039017633,
+          "duration" : 34172
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tc07_useMetronome",
+        "uid" : "37065b078cbafef9",
+        "parentUid" : "e79f081100a253160968798bffde03f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1699039051809,
+          "stop" : 1699039072694,
+          "duration" : 20885
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tc04_transposeDownMoreThanPossible",
+        "uid" : "7e82ed1e2706fd10",
+        "parentUid" : "e79f081100a253160968798bffde03f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1699039585744,
+          "stop" : 1699039656874,
+          "duration" : 71130
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tc02_SearchSong02",
+        "uid" : "7e4796332551e232",
+        "parentUid" : "e79f081100a253160968798bffde03f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1699039809478,
+          "stop" : 1699039851428,
+          "duration" : 41950
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tc02_PlayASongFromPopularCategory2",
+        "uid" : "79340816b11c0590",
+        "parentUid" : "e79f081100a253160968798bffde03f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1699040028083,
+          "stop" : 1699040111977,
+          "duration" : 83894
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tc02_changingSoundToPanFlute",
+        "uid" : "9d5bba4bd8bbb82",
+        "parentUid" : "e79f081100a253160968798bffde03f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1699038735671,
+          "stop" : 1699038770550,
+          "duration" : 34879
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tc01_isthereMidiConnection",
+        "uid" : "bef4ff8178e07010",
+        "parentUid" : "e79f081100a253160968798bffde03f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1699038835351,
+          "stop" : 1699038854916,
+          "duration" : 19565
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tc01_changingSoundToClassicalGuitar",
+        "uid" : "1cda7fa56cf52b52",
+        "parentUid" : "e79f081100a253160968798bffde03f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1699038700282,
+          "stop" : 1699038735660,
+          "duration" : 35378
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tc01_usingTextBox",
+        "uid" : "dd18f13603cd0bd8",
+        "parentUid" : "e79f081100a253160968798bffde03f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1699039359426,
+          "stop" : 1699039392220,
+          "duration" : 32794
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tc04_SearchSong03",
+        "uid" : "88c9093cba8f3e03",
+        "parentUid" : "e79f081100a253160968798bffde03f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1699039924737,
+          "stop" : 1699039931088,
+          "duration" : 6351
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tc02_usingThepasteOption1",
+        "uid" : "f99534e7a64aa7e5",
+        "parentUid" : "e79f081100a253160968798bffde03f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1699039392228,
+          "stop" : 1699039430065,
+          "duration" : 37837
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e79f081100a253160968798bffde03f4"
+    } ],
+    "uid" : "7282a99c3f38087cf39736405857b260"
+  } ]
+}

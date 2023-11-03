@@ -1,0 +1,109 @@
+{
+  "uid" : "2768a29af8ff63d2",
+  "name" : "tc03_transposeDownMoreThanPossible",
+  "fullName" : "tests.PianoSoundTransposeSettingsTest.tc03_transposeDownMoreThanPossible",
+  "historyId" : "594e655c944c3bf6d18ef4c7f33ba965",
+  "time" : {
+    "start" : 1699039544334,
+    "stop" : 1699039585737,
+    "duration" : 41403
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1699039430960,
+      "stop" : 1699039460290,
+      "duration" : 29330
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1699039544329,
+      "stop" : 1699039544331,
+      "duration" : 2
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tierDown",
+    "time" : {
+      "start" : 1699039656876,
+      "stop" : 1699039657701,
+      "duration" : 825
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.PianoSoundTransposeSettingsTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.PianoSoundTransposeSettingsTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "tc03_transposeDownMoreThanPossible"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.PianoSoundTransposeSettingsTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-MQ8SA9Q"
+  }, {
+    "name" : "thread",
+    "value" : "13668@DESKTOP-MQ8SA9Q.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2768a29af8ff63d2.json",
+  "parameterValues" : [ ]
+}
